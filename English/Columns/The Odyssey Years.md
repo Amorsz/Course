@@ -89,3 +89,5 @@ wonder at...by “Knocked Up.”[^18]
 - Educated women can get many of the things they want (income, status, identity) without marriage, while they find it harder (or, if they’re working-class, next to impossible) to find a *suitably accomplished mate*.
 
 - Europeans *delay marriage* even longer than we do and spend even more years *shifting between the job market and higher education*.
+
+See full column at [The Odyssey Years](https://github.com/Amorsz/Course/blob/main/English/Files/The%20Odyssey%20Years.md)
